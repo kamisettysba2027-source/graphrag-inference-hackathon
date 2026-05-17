@@ -1,0 +1,197 @@
+[DOCUMENT METADATA]
+Title: Effects of probiotic supplementation on glycemic control in children with type 1 diabetes: A systematic review and meta-analysis
+Year: 2026
+Type: review
+Drugs: metformin
+Keywords: Probiotics, type 1 diabetes, children, meta-analysis, glycated hemoglobin, fasting blood glucose, insulin
+Domain: Type 2 Diabetes Drug Interactions
+[END METADATA]
+
+[SECTION: ABSTRACT]
+Background This study aimed to evaluate the effects of probiotic supplementation on glycemic control in children with type 1 diabetes, as measured using glycated hemoglobin level, fasting blood glucose level, and insulin requirements. Methods A systematic search was conducted across four databases (PubMed, Web of Science, Embase, and Scopus) to identify eligible randomized controlled trials. The Cochrane Risk of Bias tool was used to assess methodological quality. Meta‑analyses were performed using random‑effects models, with subgroup analysis conducted by probiotic strain. The study was registered with the Research Registry (reviewregistry2089). Results Six randomized controlled trials (483 children) were included. Probiotic supplementation significantly reduced glycated hemoglobin levels (weighted mean difference: −0.54%; 95% confidence interval: −0.90% to −0.18%;  p  = 0.003; I 2  = 19.65%) and insulin requirements (weighted mean difference: −0.082 U/kg/day; 95% confidence interval: −0.147 to −0.017;  p  = 0.013; I 2  = 0%). Fasting blood glucose levels showed a non‑significant reduction (mean difference: −10.54 mg/dL; 95% confidence interval: −23.25 to 2.17;  p  = 0.104; I 2  = 0%). Subgroup analysis revealed that the De Simone formulation explained 70.32% of the between‑study variance. No publication bias was detected. Conclusion Probiotic supplementation, particularly specific formulations, may reduce glycated hemoglobin levels and insulin needs in children with type 1 diabetes, supporting probiotics supplementation as an adjunctive therapy; however, larger trials are needed to confirm these findings.
+
+
+Background:
+This study aimed to evaluate the effects of probiotic supplementation on glycemic control in children with type 1 diabetes, as measured using glycated hemoglobin level, fasting blood glucose level, and insulin requirements.
+
+[SECTION: METHODS]
+A systematic search was conducted across four databases (PubMed, Web of Science, Embase, and Scopus) to identify eligible randomized controlled trials. The Cochrane Risk of Bias tool was used to assess methodological quality. Meta‑analyses were performed using random‑effects models, with subgroup analysis conducted by probiotic strain. The study was registered with the Research Registry (reviewregistry2089).
+
+[SECTION: RESULTS]
+Six randomized controlled trials (483 children) were included. Probiotic supplementation significantly reduced glycated hemoglobin levels (weighted mean difference: −0.54%; 95% confidence interval: −0.90% to −0.18%;  p  = 0.003; I 2  = 19.65%) and insulin requirements (weighted mean difference: −0.082 U/kg/day; 95% confidence interval: −0.147 to −0.017;  p  = 0.013; I 2  = 0%). Fasting blood glucose levels showed a non‑significant reduction (mean difference: −10.54 mg/dL; 95% confidence interval: −23.25 to 2.17;  p  = 0.104; I 2  = 0%). Subgroup analysis revealed that the De Simone formulation explained 70.32% of the between‑study variance. No publication bias was detected.
+
+[SECTION: CONCLUSION]
+This meta-analysis provides evidence that probiotic supplementation significantly reduces HbA1c levels and insulin requirements in children with T1D, with robust findings supported by low heterogeneity after accounting for strain specificity and sensitivity analyses excluding studies with higher risk of bias. No consistent effect was observed on FBG levels. Subgroup analyses revealed that probiotic strain, particularly the De Simone formulation, explained a substantial proportion of the between‑study variance, highlighting the importance of probiotic strain selection. These findings support the potential role of specific probiotic formulations as an adjunct to conventional insulin therapy. However, given the limited number and sample sizes of the included studies, further well‑designed RCTs with standardized protocols, longer follow‑up, and consistent outcome reporting are warranted to validate these findings and identify optimal treatment regimens.
+
+[SECTION: INTRODUCTION]
+Type 1 diabetes (T1D) is a serious, lifelong autoimmune disease that poses a growing global health challenge, particularly among children and adolescents. 
+ 1 
+  It is characterized by immune-mediated destruction of pancreatic β-cells, leading to complete insulin deficiency. 
+ 2 
+  Without prompt diagnosis and intensive insulin replacement therapy, T1D can result in severe acute and chronic complications, including diabetic ketoacidosis, microvascular damage, and long-term cardiovascular risks. 3 – 5  Epidemiological data indicate that T1D is the most common form of diabetes in children aged <15 years, with its incidence continuing to rise worldwide. 
+ 6 
+  Genetic susceptibility, particularly the presence of human leukocyte antigen (HLA) DR3 (HLA-DR3) and DR4 alleles, along with environmental triggers such as viral infections, are believed to contribute to disease onset. 
+ 7 
+  In the context of T1D, insulin deficiency causes profound disruptions in glucose and lipid metabolisms. Glucose uptake by insulin-dependent tissues such as the liver and muscles is impaired, leading to hyperglycemia. 
+ 8 
+  Concurrently, enhanced lipolysis and fatty acid oxidation exacerbate the metabolic imbalance. These abnormalities are particularly critical in pediatric patients, whose metabolic demands are high due to ongoing growth and development. 
+ 9 
+  Consequently, achieving and maintaining effective glycemic control in children with T1D remains critical and clinically challenging and requires individualized therapeutic strategies.
+In addition to traditional insulin therapy, adjuvant treatment strategies targeting metabolic and immune dysregulation in children with T1D are gaining attention. The intestinal microbiota is currently considered a key mediator between environmental exposures and host metabolism and immunity. 
+ 10 
+  Dysbiosis, or altered microbial composition, is frequently observed in children with or at risk of T1D, typically characterized by reduced microbial diversity and depletion of microbiota involved in immune tolerance and intestinal barrier integrity. 
+ 11 
+  Probiotics are live microorganisms with health benefits that are shown to be involved in regulating T1D progression. For example, probiotics enhance regulatory T cell function and anti-inflammatory cytokine profiles and reduce T helper (Th) 1 (Th1)/Th17–driven autoimmunity. 
+ 12 
+  Probiotics can produce short-chain fatty acids (SCFAs) such as butyrate, improve insulin sensitivity, and regulate immune responses. 
+ 13 
+  A recent meta-analysis of 388 children and adolescents with T1D has shown that probiotic interventions are paradoxically associated with higher blood glucose levels and glycated hemoglobin (HbA1c) levels compared with control treatment, indicating potential risks in some cases. 
+ 14 
+  In contrast, one study that evaluated  Lactobacillus rhamnosus  GG in vaccinated children with T1D reported no negative effects of probiotics supplementation on humoral immunity; however, this study demonstrated that probiotics reduced inflammatory responses in peripheral blood mononuclear cells (PBMCs) without impairing the production of protective antibodies. 
+ 15 
+  These findings highlight the potential of probiotics supplementation in T1D treatment. Further studies are warranted to elucidate the mechanisms by which probiotics modulate gut immune and metabolic functions.
+This meta-analysis and systematic review aimed to evaluate the effects of probiotic supplementation on glycemic control in children with T1D. We synthesized data from published randomized controlled trials (RCTs) reporting HbA1c levels, fasting blood glucose (FBG) levels, and insulin requirements. To inform future research and clinical practice, we assessed the methodological quality of the included trials and evaluated the therapeutic potential and safety of probiotics supplementation as an adjunct to insulin therapy in this population.
+
+Literature search strategy:
+The Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) criteria were followed for conducting this systematic review and meta-analysis. 
+ 16 
+  The study was retrospectively registered with the Research Registry (Registration Number: reviewregistry2089; available at:  https://www.researchregistry.com/ ). A comprehensive literature search was performed across four electronic databases: PubMed, Web of Science, Embase, and Scopus, from inception through January 2026. The search strategy combined Medical Subject Headings (MeSH) and free-text terms, including “probiotics,” “type 1 diabetes,” “children,” “glycemic control,” and “randomized controlled trial,” using Boolean operators. The reference lists of included studies and relevant reviews were manually screened to identify additional eligible trials. No language or publication date restrictions were applied.
+
+Study selection criteria:
+Studies qualified for inclusion if they fulfilled the following conditions: (a)  Study type . RCTs; (b)  Population . Children diagnosed with T1D; (c)  Intervention . Probiotic supplementation in addition to standard insulin therapy; (d)  Comparator . Placebo or insulin therapy alone; and (e)  Outcomes . At least one of the following indicators, such as HbA1c, FBG, or insulin requirement. Exclusion criteria included the following: (a) non-RCT design; (b) adult participants; (c) absence of relevant outcomes; (d) duplicated publications; and (e) insufficient data for extraction.
+
+Study screening and data collection:
+Titles and abstracts were independently screened by two reviewers, with full texts subsequently assessed for eligibility. Discrepancies were resolved via consensus. Extracted data included author name, publication year, study design, sample size, intervention and comparator details, follow-up duration, and main findings.
+
+Outcome measures:
+Three glycemic outcomes were assessed. HbA1c level (%) was the primary outcome measure of long-term glycemic control. FBG level (mg/dL) was recorded as a secondary outcome measure of short-term glycemic status. Insulin requirement (U/kg/day) was recorded as a secondary outcome measure reflecting daily exogenous insulin needs. For studies reporting HbA1c or FBG levels as medians and interquartile ranges, means and SDs were estimated using the method described by Hozo et al. 
+ 17 
+  For insulin requirement, only studies reporting data in U/kg/day or with sufficient information for conversion to this unit were included in the meta-analysis; studies reporting insulin dose in absolute units without weight data were excluded from this specific outcome. All data were extracted independently by two reviewers, with disagreements resolved through discussion.
+
+Risk of bias assessment:
+Methodological quality of the included RCTs was assessed using the Cochrane Risk of Bias tool ( https://methods.cochrane.org/bias/resources/cochrane-risk-bias-tool ), which examines the following seven key aspects: (a) random sequence generation; (b) allocation concealment; (c) blinding of participants/personnel; (d) blinding of outcome assessors; (e) completeness of outcome data; (f) selective reporting; and (g) additional sources of bias.
+
+Statistical analyses:
+The meta-analysis was conducted using Review Manager (RevMan, version 5.4.1). Continuous outcomes were synthesized by calculating the weighted mean difference (WMD) along with 95% confidence intervals (CIs). Statistical heterogeneity was evaluated using both chi-square test and I 2  index, where I 2  values of 25%, 50%, and 75% were considered to indicate low, moderate, and high heterogeneity, respectively. A random-effects model was employed due to anticipated clinical and methodological heterogeneity across studies.
+Subgroup analyses were performed based on probiotic strain (De Simone formulation vs. other probiotics) to explore potential sources of heterogeneity. Sensitivity analyses were conducted by sequentially excluding individual studies to assess the robustness of the pooled estimates. Publication bias was assessed using funnel plot visual inspection, Begg’s rank correlation test, Egger’s regression test, the trim-and-fill method, and fail-safe N calculations. Although statistical tests for publication bias have limited power when applied to fewer than 10 studies, these methods were used to perform a comprehensive assessment, and the results were interpreted with caution. The study selection process is depicted using the PRISMA 2020 flow diagram. All statistical tests were two-sided, and  p -values <0.05 were considered statistically significant.
+
+RCTs included in the meta-analysis:
+A systematic search of four databases, including PubMed (n = 9), Web of Science (n = 30), Embase (n = 81), and Scopus (n = 69), initially yielded 189 records. After excluding 63 duplicate entries, the titles and abstracts of the remaining 126 records were screened. Of these, 43 records were eliminated in this phase, as they were not relevant to the study objective. Subsequently, 83 full-text reports were identified for further evaluation. However, 47 reports were excluded because they failed to meet the eligibility criteria. The remaining 36 reports were thoroughly assessed according to the predetermined inclusion and exclusion criteria. The following factors led to the exclusion of 30 studies: (a) lack of full text (n = 3); (b) no specific data (n = 7); (c) no pediatric patients (n = 6); (d) correspondence (n = 4); (e) no results (n = 3); (f) protocol (n = 3); and (g) repeat study (n = 4). Ultimately, six RCTs that satisfied the inclusion criteria were included in the meta-analysis. The study selection procedure is described in detail in the PRISMA flow chart ( Figure 1 ).
+
+Assessment of methodological bias in the included RCTs:
+To evaluate methodological bias in the six included RCTs, the Cochrane Risk of Bias tool was used. The domains were assessed: (a) random sequence generation; (b) allocation concealment; (c) blinding of participants and personnel; (d) blinding of outcome assessment; (e) incomplete outcome data; (f) selective reporting; and (g) other bias ( Figure 2(a) ). Among them, random sequence generation and allocation concealment were judged to be at a low risk of bias in 100% of the included studies. Only 50% of the studies adequately implemented blinding of participants and personnel (performance bias) as well as outcome assessment blinding (detection bias), whereas the remaining studies were rated as unclear owing to insufficient methodological details. Incomplete outcome data (attrition bias) were identified as the domain with the highest risk of bias, with one study by Kumar et al. 
+ 18 
+  rated as having a high risk of bias, and three others as unclear. Due to limited information on trial registration or protocol deviations, selective reporting bias and other potential biases were predominantly rated as unclear. The studies by Javid et al. 
+ 19 
+  and Wang et al. 
+ 20 
+  demonstrated overall low risk across most domains, although the domains of outcome blinding and reporting bias remained unclear. The studies by Shabani-Mirzaee et al. 
+ 21 
+  and Lokesh et al. 
+ 22 
+  were rated as having a low risk of bias for randomization and allocation concealment but lacked clarity in other domains. The study by Groele et al. 
+ 23 
+  had a relatively higher number of unclear domains. Only the study by Kumar et al. 
+ 18 
+  was rated as having a high risk of bias for incomplete outcome data, likely due to missing or excluded participant data without explanation ( Figure 2(b) ). These findings suggest that the included studies were of moderate-to-good methodological quality and suitable for quantitative synthesis.
+
+Details of the included RCTs: Clinical data and bias risk assessment:
+Six RCTs comprising 483 children with a recent diagnosis of T1D were analyzed in this meta-analysis. Detailed characteristics of the included studies are provided in  Table 1 . Sample sizes per study ranged from 44 to 90, with intervention and control group sizes generally balanced. All the included studies used probiotic supplementation in addition to standard insulin therapy, and the control groups received placebo or insulin therapy alone. The follow-up durations varied from 8 to 24 weeks. The assessed outcomes included HbA1c level (6/6 studies), FBG level (5/6 studies), and insulin requirement (3/6 studies).
+In a double-blind, placebo-controlled trial lasting 8 weeks, Javid et al. 
+ 19 
+  enrolled 44 children and reported that synbiotic supplementation led to significant reductions in both HbA1c and FBG levels ( p  <   0.05). The study was assessed as having a low risk of bias (“Good” quality). Kumar et al. 
+ 18 
+  reported a substantial reduction in the HbA1c level ( p  =   0.021) and insulin dosage ( p  =   0.037) following 12 weeks of probiotic treatment in a double-blind trial involving 90 participants. This study was also rated as having a low risk of bias (“Good”). A 24-week clinical trial by Groele et al., 
+ 23 
+  which enrolled 90 children, showed no meaningful differences in the HbA1c level ( p  =   0.058) or insulin demand ( p  =   0.0626). The study was rated as “Fair” (some concerns) due to unclear reporting in the domains of blinding and selective reporting. Wang et al. 
+ 20 
+  demonstrated significant improvements in HbA1c and FBG levels ( p  <   0.001) after 12 weeks of intervention in 56 participants, and this study was rated as having a low risk of bias (“Good”). Shabani-Mirzaee et al. 
+ 21 
+  observed a significant reduction in FBG levels ( p  =   0.016), with no significant alteration in HbA1c levels ( p  =   0.692) after 12 weeks of a single-blinded probiotic intervention. Due to the lack of placebo control and the single-blind design, this study was rated as “Fair” (high risk of performance bias). Lokesh et al. 
+ 22 
+  conducted the longest trial (24 weeks) in 50 children and reported modest but significant decreases in both HbA1c ( p  =   0.045) and FBG ( p  =   0.043) levels; however, the insulin dosage did not change significantly ( p  =   0.143). The trial was assessed as having a low risk of bias (“Good”).
+Taken together, four studies were rated as having a low risk of bias, 18 – 20 , 22  whereas two studies were rated “Fair,” 21 , 23  primarily due to unclear or inadequate blinding procedures and selective reporting. Notably, the three largest studies, 18 , 22 , 23  each with ≥50 participants, demonstrated variable results; the two low-risk studies using the De Simone formulation 18 , 22  showed significant reductions in HbA1c levels, whereas the fair-quality study using different strains 
+ 23 
+  did not. This pattern suggests that both methodological quality and probiotic strain selection influence study outcomes. The influence of study quality on pooled effect sizes was further examined using sensitivity analyses.
+
+Low publication bias for HbA1c and FBG levels:
+Possible publication bias was evaluated using funnel plots. For HbA1c levels (6 studies), the fail-safe N was 23 ( p  <   0.001). Begg’s test (τ = −0.067,  p  =   1.000) and Egger’s test (intercept = −1.424,  p  =   0.154) showed no significant evidence of publication bias, although the trim-and-fill method imputed 3 missing studies, suggesting asymmetry ( Figure 3(a) ). For FBG levels (5 studies), all the tests consistently indicated no evidence of publication bias (fail-safe N = 2 ( p  =   0.035), Begg’s test (τ = −0.200,  p  =   0.817), and Egger’s test (intercept = −0.851,  p  =   0.395)); the trim-and-fill method imputed 0 missing studies ( Figure 3(b) ).
+
+Meta-analysis reveals significant reductions in the HbA1c levels and insulin dose with probiotics supplementation but no effect on FBG levels:
+All six RCTs reported HbA1c levels as an outcome. Meta-analysis using a random-effects model showed that probiotic supplementation was associated with a significant reduction in HbA1c levels compared with placebo (WMD: −0.54%; 95% CI: −0.90% to −0.18%;  p  =   0.003;  Figure 4 ). Heterogeneity was low (I 2  = 19.65%,  p  =   0.439), indicating consistent findings across studies. Five studies reported FBG levels. Probiotic supplementation was associated with a mean reduction of 10.54 mg/dL in FBG levels compared with placebo, although this difference did not reach statistical significance (95% CI: −23.25 to 2.17 mg/dL;  p  =   0.104;  Figure 5 ). Four of five studies favored probiotics, with one study demonstrating a statistically significant reduction of 53.6 mg/dL in the FBG levels. Heterogeneity was minimal (I 2  = 0%,  p  =   0.251), suggesting that probiotics exerted a limited short-term effect on fasting glucose control. Three studies reported insulin requirements. Probiotic supplementation was associated with a significant reduction in the insulin requirement compared with placebo (WMD: −0.082 U/kg/day; 95% CI: −0.147 to −0.017 U/kg/day;  p  =   0.013;  Figure 6 ). Heterogeneity was absent (I 2  = 0%,  p  =   0.732).
+
+Subgroup analyses:
+Subgroup analyses were performed based on probiotic strain, with studies categorized according to the De Simone formulation 18 , 22  or other probiotic formulations (the remaining four studies). The mixed-effects meta-analysis showed that both subgroups demonstrated reductions in HbA1c levels favoring probiotics supplementation. For the other probiotics subgroup (reference category), the pooled effect was a significant reduction of 0.34% (95% CI: −0.596% to −0.093%;  p  =   0.007). The De Simone formulation subgroup showed a numerically similar reduction (additional −0.03% compared with that using other probiotics, corresponding to a total reduction of approximately 0.37%), although this difference was not statistically significant (moderator estimate: −0.032; 95% CI: −0.451 to 0.387;  p  =   0.881). Importantly, after accounting for probiotic strain as a moderator, heterogeneity was completely eliminated (I 2  = 0%,  p  =   0.577). The R 2  statistic indicated that the total heterogeneity in the model was already negligible, and the probiotic strain confirmed the consistency of effects within each subgroup. These findings demonstrate that the effect estimates are highly consistent across studies when accounting for probiotic formulation, supporting the robustness of the pooled results.
+
+Sensitivity analyses:
+To assess the robustness of the pooled estimates, we performed prespecified sensitivity analyses by sequentially excluding studies with potential biases. After excluding the study by Shabani-Mirzaee et al. 
+ 22 
+  (considered at high risk of bias due to its single-blind design and lack of placebo), the pooled effect size for HbA1c level remained significant (WMD: −0.60%; 95% CI: −1.022% to −0.177%;  p  =   0.005), with moderate heterogeneity (I 2  = 29.60%,  p  =   0.315). Excluding the study by Groele et al. 
+ 23 
+  alone yielded a similar result (WMD: −0.778%; 95% CI: −1.247% to −0.309%;  p  =   0.001) with no heterogeneity (I 2  = 0%). Furthermore, simultaneously excluding both above studies resulted in a pooled effect size of −0.88% (95% CI: −1.397% to −0.364%;  p  <   0.001), with complete elimination of heterogeneity (I 2  = 0%,  p  =   0.747). These sensitivity analyses consistently demonstrate that the main finding of a significant reduction in the HbA1c levels following probiotic supplementation is robust and not unduly influenced by any single study or by the inclusion of studies with potential methodological limitations.
+
+[SECTION: DISCUSSION]
+This systematic review and meta-analysis, encompassing six RCTs involving 483 pediatric participants, provides a comprehensive evaluation of probiotic supplementation on glycemic control in children with T1D. Our findings demonstrate that probiotic supplementation significantly reduces HbA1c levels (WMD: −0.541%; 95% CI: −0.903% to −0.179%;  p  =   0.003) in children with T1D, with a consistent trend toward improved FBG levels (mean reduction of 10.54 mg/dL; 95% CI: −23.25 to 2.17 mg/dL;  p  =   0.104). For insulin requirements, a modest reduction was observed (WMD: −0.082 U/kg/day; 95% CI: −0.147 to −0.017 U/kg/day;  p  =   0.013), which corresponds to approximately 2.5 units less insulin per day for a child weighing 30 kg. However, this finding is based on only three studies and should be interpreted with caution. These results suggest that specific probiotic formulations offer benefits as an adjunctive therapy in pediatric T1D management, particularly for improving long-term glycemic control, although the evidence for reduced insulin requirements remains preliminary and requires confirmation in larger studies.
+Meta-analysis is a powerful tool that synthesizes results from multiple independent studies, substantially enhancing statistical power, evidence grade, and generalizability and minimizes the limitations of individual small-sample studies. It is widely applied in clinical research to inform practice guidelines, quantify the effects of interventions, and explore heterogeneity across studies. 
+ 24 
+  In recent years, numerous meta-analyses have explored early-life exposures and metabolic outcomes in pediatric populations. For example, a meta-analysis involving more than 130,000 mother–infant pairs has reported that maternal use of metformin during pregnancy is associated with significantly lower infant birth weight, reduced risk of macrosomia, and increased infant weight at 18–24 months of age. For participants aged 5–9 years, the body mass index was slightly higher in the metformin-treated group, suggesting a positive effect on development. 
+ 25 
+  Cinnamon supplementation substantially decreased fasting plasma glucose levels, improved insulin resistance, and decreased HbA1c levels in patients with type 2 diabetes, according to another meta-analysis that included 24 RCTs. However, the impact on fasting insulin levels was not statistically significant. 
+ 26 
+  These findings support the metabolic relevance of microbiota-targeted therapies. In this context, our meta-analysis included six RCTs involving 483 children diagnosed with T1D, evaluating the efficacy of probiotic supplementation on glycemic control. Overall results suggest that probiotics significantly reduced HbA1c levels and insulin requirements; however, they did not influence FBG levels. These findings reinforce the potential value of probiotics as an adjunctive strategy in T1D management, although evidence remains limited owing to heterogeneity and study inconsistencies.
+The beneficial effects of probiotics supplementation on HbA1c levels and insulin requirements observed in this meta-analysis may be attributed to their role in regulating gut–immune–metabolism interactions. HbA1c serves as a widely recognized marker for assessing long-term glycemic regulation, reflecting the average blood glucose level for approximately 8–12 weeks, and is often used to evaluate the effectiveness of diabetes interventions. 
+ 27 
+  Meanwhile, insulin demand is a practical clinical indicator of insulin sensitivity and endogenous β-cell function in human beings. 
+ 28 
+  The modest reductions in these two parameters observed in this meta-analysis may reflect improvements in glucose homeostasis and metabolic demand. Probiotics have been reported to enhance intestinal barrier integrity, reduce systemic inflammation, and modulate immune responses by promoting regulatory T cells and anti-inflammatory cytokines. 
+ 29 
+  These effects may help preserve residual β-cell function, especially in early T1D. 
+ 22 
+  In addition, probiotics promote the generation of SCFAs, including butyrate, which are essential for preserving intestinal homeostasis and modulating glucose metabolism via the gut–liver and gut–brain axes. 
+ 30 
+  Although FBG levels can reflect short-term glycemic status, their volatility may explain the non-significant summary effect observed in this analysis. Taken together, these mechanisms provide a plausible biological rationale for the favorable trends in HbA1c levels and insulin dose reduction in children with T1D after probiotics supplementation.
+The significant reduction in HbA1c levels following probiotic supplementation, with relatively low heterogeneity (I 2  =19.65%), provides evidence that the findings are consistent across studies. Importantly, subgroup analyses based on probiotic strain revealed that differences in probiotic formulations explained 70.32% of the between-study variance (R 2  = 70.32%), with heterogeneity completely eliminated after accounting for the probiotic strain type (I 2  = 0%). This finding underscores that the observed benefits are strain-specific rather than a uniform class effect of all probiotics. The lack of significant improvement in the studies by Groele et al. 
+ 23 
+  and Shabani-Mirzaee et al. 
+ 21 
+  may reflect suboptimal strain selection, small-sample sizes, or short intervention periods. A recent meta-analysis by Stefanaki et al. 
+ 14 
+  has reported an unexpected association of probiotic supplementation with worse glycemic control in children with T1D. This discrepancy is critically reconciled by examining key methodological differences. Notably, the analysis by Stefanaki et al. 
+ 14 
+  excluded the trial by Kumar et al. 
+ 18 
+  due to inconsistency in data format and appears to have utilized different post-intervention values for the pivotal study by Lokesh et al. 
+ 22 
+  Our analysis, which included both these trials after rigorous data verification and re-extraction, found a consistent and significant benefit, particularly for the De Simone formulation. Furthermore, the use of the WMD in our study provides a directly interpretable clinical effect size. This discrepancy underscores the sensitivity of meta-analytic conclusions to study selection and data extraction methods as well as the importance of verifying primary data, especially in a small body of evidence. It highlights the need for further large, well-designed trials with standardized protocols to definitively identify the most effective probiotic strains.
+An interesting observation from this meta-analysis is the discrepancy between the significant reduction in HbA1c levels and the non‑significant trend toward lower FBG levels following probiotic supplementation. This finding, although seemingly counterintuitive, is biologically plausible and consistent with observations from other diabetes intervention studies. HbA1c level, as a measure of integrated glycemic control over approximately 3 months, captures both fasting and postprandial glucose levels. In contrast, FBG level represents a single time‑point measurement that is subject to considerable day‑to‑day variability and can be influenced by numerous transient factors, including dietary adherence, physical activity, and the timing and dose of the previous evening’s insulin dose. Probiotics may exert their glucose‑lowering effects primarily through modulation of postprandial metabolism, for example, by enhancing secretion of glucagon‑like peptide‑1 (GLP‑1), 
+ 31 
+  delaying gastric emptying, or altering gut microbiota composition to reduce postprandial glucose absorption, effects that would lower HbA1c levels without necessarily affecting FBG levels. Future trials should include continuous glucose monitoring to better characterize the effects of probiotics on both fasting and postprandial glucose levels. 
+ 32 
+  The consistency of our findings with those of recent meta-analyses in other diabetic populations further supports the biological plausibility of these observations. 
+ 33
+The observed reduction in insulin requirement (WMD: −0.082 U/kg/day; 95% CI: −0.147 to −0.017;  p  =   0.013) represents a clinically meaningful benefit for children with T1D. For a child weighing 30 kg, this reduction translates to approximately 2.5 fewer units of insulin per day (0.082 U/kg/day × 30 kg). Although this absolute reduction may appear modest, its clinical significance should be considered in the context of several factors. First, even small reductions in daily insulin dose can decrease the risk of hypoglycemia, particularly in young children who are more vulnerable to severe hypoglycemic events and their neurocognitive consequences. 
+ 34 
+  Second, reduced insulin requirements may reflect improved insulin sensitivity, a key therapeutic target in pediatric T1D management, especially during puberty when insulin resistance typically increases. 
+ 35 
+  Third, any sustained reduction in the exogenous insulin burden can improve the patient’s quality of life by simplifying daily management and reducing the frequency of insulin injections or the volume of insulin delivered via pumps. 
+ 36 
+  Fourth, the complete absence of heterogeneity (I 2  = 0%) across the three studies contributing to this outcome strengthens confidence that the observed effect is consistent and reproducible. Nevertheless, given that this finding is based on only three studies with relatively small-sample sizes, it should be interpreted with appropriate caution and requires confirmation in larger, well-powered trials. Additionally, future studies should investigate whether this insulin-sparing effect translates into reduced rates of hypoglycemia, improved glycemic variability, and better long-term cardiometabolic outcomes.
+This meta-analysis has certain limitations. First, only a few studies qualified for this meta-analysis, and the sample size of each study was relatively small; this might have increased the influence of random mistakes and decreased the power of statistical tests. Second, differences in probiotic composition, administration timing, and outcome measures limit comparability and may explain the observed heterogeneity. In particular, insulin requirement was reported inconsistently across studies: although the three studies included in this analysis reported insulin requirements as U/kg/day, other studies reported insulin dose in absolute units without sufficient weight data for conversion, precluding their inclusion and limiting the robustness of this outcome. Third, this systematic review was not prospectively registered in the International Prospective Register of Systematic Review (PROSPERO) or any other public registry, which represents a limitation in terms of transparency and adherence to best practices for systematic reviews. Fourth, most studies lacked mechanistic data, making it difficult to draw conclusions about causal pathways. Finally, the follow-up duration was relatively short (8–24 weeks), and long-term metabolic or immunological benefits remain unclear. Future RCTs should employ standardized probiotic formulations, longer intervention periods, consistent outcome reporting (particularly for insulin requirements, expressed as U/kg/day), and mechanistic outcomes to further understand the function of gut microbiota modification in T1D therapy. Prospective registration of systematic reviews is also strongly recommended to enhance transparency and reduce reporting bias.
+
+Authors’ contributions:
+Conceptualization and methodology: Y.S. and M.S. conceived the study, designed the meta-analysis, and developed the search strategy and inclusion criteria. N.T. and Y.Y. provided overall study concept and direction. Literature search, screening, and data extraction: Y.S., M.S., Q.H., and L.X. performed the literature search, screened studies, and extracted data. Data curation, validation, and formal analysis: Y.S., M.S., L.X., and F.X. curated the data, checked for accuracy, conducted the meta-analysis, and performed statistical analyses. Writing–original draft: Y.S. and M.S. wrote the initial draft of the manuscript. Writing–review & editing: Q.H., C.Z., and F.X. reviewed and edited the manuscript for important intellectual content. N.T. and Y.Y. critically revised the manuscript and provided final approval. Supervision and project administration: N.T. and Y.Y. supervised the study and managed project administration. Visualization: L.X. prepared the figures and tables.
+
+Availability of supporting data:
+The data supporting the findings of this study are available from the included published studies listed in the reference list. The search strategy, data extraction forms, and analysis details can be provided upon reasonable request to the corresponding author.
+
+Consent for publication:
+Participant consent for publication was not required as this study does not involve personal or identifiable patient data.
+
+Declaration of conflicting interests:
+The authors declare that they have no competing interests.
+
+Ethical approval and consent to participate:
+This study is a meta-analysis based on previously published studies and did not involve direct interaction with human participants, collection of primary data, or experimentation on animals. Therefore, ethical approval and informed consent from participants were not required.
+
+Funding:
+This study received funding from the following: (a) Sinocare Diabetes Public Welfare Foundation, Hunan Province (2022SD09); (b) Health Research Project of Kunming Municipal Health Committee (2023-06-01-021); and (c) Kunming Health Science and Technology Talent Training Project (2024-SW(Reserve)-03).

@@ -1,0 +1,308 @@
+[DOCUMENT METADATA]
+Title: Advances in the management of gout: From current strategies to emerging therapies
+Year: 2026
+Type: research_article
+Drugs: SGLT2 inhibitor
+Keywords: Gout, short-term management, long-term management, treatment options, uric acid
+Domain: Type 2 Diabetes Drug Interactions
+[END METADATA]
+
+[SECTION: ABSTRACT]
+Gout is a form of inflammatory arthritis caused by disordered uric acid metabolism, characterized by severe joint pain and inflammatory reactions, which significantly impair patients’ quality of life. With changes in lifestyle and dietary habits, the incidence of gout has been rising globally, making it a critical public health concern. Current research primarily focuses on short- and long-term management strategies, including pharmacological therapies, lifestyle interventions, and patient education. Short-term management typically comprises nonsteroidal anti-inflammatory drugs and colchicine to alleviate acute attacks, while long-term management focuses on uric acid control and recurrence prevention through urate-lowering drugs. Although existing management strategies can effectively control symptoms, challenges such as poor patient adherence and insufficient individualized treatment persist. Emerging therapies, including biologics and gene-based treatments, have demonstrated promising potential and may offer more effective and personalized therapeutic solutions for patients with gout. This narrative review aims to provide a comprehensive synthesis of existing literature to inform clinical practice and explore future directions in gout management.
+
+[SECTION: INTRODUCTION]
+Gout—an acute inflammatory arthritic condition caused by hyperuricemia—is typically characterized by severe joint pain and erythema. 
+ 1 
+  Its pathogenesis is closely associated with multiple factors, including diet, obesity, and genetics. 2 – 4  In recent years, the incidence of gout has risen globally, becoming a significant public health concern. 
+ 5 
+  In response, major rheumatology associations, including the European Alliance of Associations for Rheumatology (EULAR) and the American College of Rheumatology (ACR), have established evidence-based management guidelines. These guidelines emphasize a treat-to-target (T2T) strategy for urate-lowering therapy (ULT), with serum urate (SU) as the key treatment target because it acts as a useful surrogate marker for the risk of subsequent gout flares, and underscore the importance of patient education and comorbidity management. 
+ 6 
+  This review will contextualize current and emerging strategies within this established framework for providing a comprehensive overview of gout management.
+Current management approaches for gout primarily involve pharmacological interventions and lifestyle modifications. Pharmacologically, urate-lowering drugs (ULDs) such as allopurinol and febuxostat are widely used to reduce SU levels and alleviate symptoms 
+ 7 
+ ; however, many patients, particularly those with comorbidities such as chronic kidney disease (CKD) and cardiovascular diseases, experience adverse effects. 8 , 9  This underscores the importance of individualized treatment plans tailored to patients’ specific conditions, ensuring optimal efficacy through appropriate drug selection and dosing.
+Lifestyle adjustments are equally vital. Studies have demonstrated that weight management, dietary improvements, and increased physical activity significantly reduce the frequency of gout flares. 
+ 10 
+  For instance, adopting a low-purine diet, avoiding excessive alcohol consumption, and maintaining adequate hydration help lower SU levels. 11 , 12  Emerging evidence also suggests that cherries and other antioxidant-rich foods may play a beneficial role in gout management by mitigating inflammatory responses. 13 , 14
+Future therapeutic options for gout are expected to expand considerably. Advances in understanding its pathophysiology have identified novel targets, including pharmacological inhibition of the NLRP3 inflammasome (e.g. dapansutrile) and sodium–glucose cotransporter-2 (SGLT2) inhibitors, which are being explored for their potential to reduce inflammation, lower SU levels, and improve cardiometabolic–renal comorbidities in patients with gout. 15 – 20  Additionally, innovations in personalized medicine and gene therapy hold promise for delivering precise, patient-specific treatments.
+Thus, gout management requires an integrated approach combining pharmacological and lifestyle interventions. Ongoing research should continue to investigate novel therapies for safer and more effective management of gout.
+
+Literature search strategy:
+To provide a current and comprehensive overview of gout management, we performed a structured literature search up to June 2024. We searched PubMed, Embase, Cochrane Library, and Web of Science for relevant articles published from 2000 onward. Our search strategy combined key terms such as “gout,” “hyperuricemia,” “urate-lowering therapy,” “allopurinol,” “febuxostat,” “colchicine,” and “biologics,” alongside “guidelines” from leading organizations (EULAR and ACR). The search was tailored to each database’s specific functionalities. We focused on including the highest quality evidence available, giving precedence to clinical trials, meta-analyses, systematic reviews, and official practice guidelines. Lower-level evidence publications and non-English articles were excluded. The final selection of literature was critically evaluated and synthesized to form the basis of this narrative review, which aims to summarize established strategies and highlight promising future directions in the field.
+
+Evidence appraisal and grading:
+To enhance clinical interpretability, we applied an adapted Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework to key clinical statements and areas of controversy highlighted in this review. 
+ 21 
+  Evidence certainty was categorized as high, moderate, low, or very low, based on study design and risk of bias, inconsistency, indirectness, imprecision, and suspected publication bias. Randomized controlled trials (RCTs) and high-quality meta-analyses were initially categorized as high certainty and could be rated down when major limitations were present, whereas observational evidence started as lower certainty but could be rated up when effects were large and consistent.
+For each selected clinical statement, we also provided the strength of recommendation (strong vs. conditional) by considering the balance of benefits and harms, patient values and preferences, feasibility, and clinical context. Evidence certainty and recommendation strength ratings are presented in the text for selected topics and summarized in  Table 1 .
+
+Pharmacotherapy for acute attacks:
+The acute phase of gout requires prompt and effective pharmacological intervention to alleviate severe pain and inflammation. Nonsteroidal anti-inflammatory drugs (NSAIDs), colchicine, and corticosteroids are the three guideline-recommended first-line pharmacologic options for the treatment of acute gout flares. 22 – 24  The choice among these agents should be individualized based on time from flare onset, comorbidities (e.g. cardiovascular disease, CKD, and gastrointestinal risk), concomitant medications and potential drug–drug interactions, and patient preference. NSAIDs are one of the first-line agents for acute gout attacks due to their efficacy in reducing pain and inflammation. 
+ 25 
+  Commonly prescribed NSAIDs include ibuprofen, naproxen, and indomethacin, with selection guided by patient tolerance and individual variability. However, NSAID use is associated with adverse effects such as gastrointestinal complications and renal impairment and should be cautiously prescribed for gout management in patients with cardiovascular disease and CKD. This is because these comorbidities frequently lead to complications and may necessitate alternative first-line options (e.g. corticosteroids) in routine practice. 26 – 28  Concomitant use of gastroprotective agents may be warranted to minimize gastrointestinal complications. 
+ 29
+Colchicine is a well-established first-line pharmacotherapy for acute gout attacks, alongside NSAIDs and corticosteroids (EULAR 2025). Its efficacy stems from inhibiting microtubule polymerization, thereby reducing neutrophil migration and phagocytosis of monosodium urate crystals. A pivotal shift in its use has been the adoption of a low-dose regimen (e.g. 1.2 mg at onset, followed by 0.6 mg 1 h later) to maximize efficacy while minimizing gastrointestinal adverse events historically associated with higher dosing (evidence certainty: moderate; recommendation strength: strong). 30 , 31  It is most effective when initiated within 36 h of symptom onset. Caution is advised in older patients and those with hepatic or renal impairment, where dose adjustment or alternative agents may be necessary. 32 , 33  Therefore, colchicine is a cornerstone of acute management, and its selection is based on patient-specific factors and contraindications, not merely as an alternative when other first-line agents fail.
+Corticosteroids, such as prednisone, are widely used for the management of acute gout, especially when NSAIDs are ineffective or poorly tolerated. They exert rapid anti-inflammatory effects by suppressing immune responses and cytokine release. 
+ 34 
+  Although highly effective, prolonged corticosteroid use leads to the risk of hyperglycemia, osteoporosis, and infections, necessitating short-term regimens with gradual tapering to avoid withdrawal effects. 
+ 35 
+  In acute settings, corticosteroids are typically administered transiently and combined with other therapies for optimal outcomes.
+Recent studies have compared the safety profiles of colchicine and NSAIDs during gout initiation. A cohort receiving concurrent allopurinol and colchicine demonstrated significantly higher risks of diarrhea, myocardial infarction, neuropathy, myalgia, bone marrow suppression, and overall adverse events compared with non-colchicine users; nevertheless, nausea/vomiting risks were comparable. 
+ 36 
+  In contrast, NSAID users receiving concomitant allopurinol exhibited elevated risks of angina, acute kidney injury, myocardial infarction, peptic ulcer disease, and total adverse events compared with non-NSAID users. 
+ 36 
+  A 12-month double-blind, placebo-controlled noninferiority trial randomized participants to receive 0.5 mg colchicine or placebo daily for the first 6 months, followed by allopurinol titration to target SU levels <0.36 mmol/L. During the initial 6 months, placebo was noninferior to colchicine in preventing gout flares; however, flare frequency increased after colchicine discontinuation. Over 12 months, the monthly flare rates did not differ between the two groups. 
+ 37
+Thus, acute gout management should be individualized, prioritizing comorbidities and drug tolerance, without unnecessary polypharmacy, to ensure safe and effective care ( Figure 1 ).
+
+Adjunctive role of nonpharmacological therapies:
+Nonpharmacological interventions play a significant adjunctive role in the management of acute gout flares. First, patients should adopt appropriate rest and cold therapy to alleviate joint swelling and pain. 38 , 39  Dietary modifications are also critical; avoiding high-purine foods (e.g. red meat and seafood) and limiting alcohol consumption can effectively reduce SU levels and lower the risk of gout flares. 40 , 41  Additionally, maintaining adequate hydration facilitates uric acid (UA) excretion, thereby decreasing the likelihood of recurrent attacks. 
+ 42 
+  Furthermore, psychological support and patient education should not be overlooked. Patients should understand the pathophysiological mechanisms of gout and the importance of self-management to enhance their ability to manage the condition. 
+ 43 
+  In summary, nonpharmacological therapies serve as essential adjuncts in acute gout management, aiding in symptom control and recurrence prevention.
+
+Self-management during acute gout flares:
+A patient’s self-management capacity during acute gout flares directly influences disease control and quality of life. Studies indicate that many patients can identify potential triggers of gout attacks by tracking dietary intake and symptom patterns, enabling early recognition and timely preventive measures. 
+ 44 
+  Additionally, patients should actively engage in shared decision-making, communicating their symptoms and treatment responses to clinicians to facilitate prompt and individualized adjustments to therapeutic regimens. 
+ 45 
+  Education and support are pivotal for enhancing self-management skills, particularly in multicultural contexts where patients from diverse ethnic groups may exhibit distinct self-management practices and beliefs. 
+ 46 
+  Therefore, developing individualized self-management plans and providing targeted education and resource support can effectively empower patients, reducing the frequency of acute flares.
+
+Pharmacological options for ULT:
+The cornerstone of long-term gout management is ULT, guided by the T2T principle as endorsed by international guidelines (Supplementary Figure 1). The EULAR guidelines recommend a target SU level of <6 mg/dL (<0.36 mmol/L) for all patients, with a lower target (<5 mg/dL or <0.30 mmol/L) recommended by some guidelines for patients with severe disease (e.g. tophaceous gout) to facilitate rapid crystal dissolution (EULAR 2025). This target-oriented approach is critical for preventing flares and resolving tophi. Gout is a chronic metabolic disorder characterized by hyperuricemia, necessitating long-term management to reduce acute flare symptoms and mitigate chronic complications. 
+ 47 
+  Current evidence highlights that long-term management of gout primarily involves ULT and lifestyle modifications. ULT remains the cornerstone of gout management, with commonly prescribed agents including allopurinol and febuxostat. 48 – 50
+Nevertheless, the optimal long-term urate-lowering strategy remains controversial. Although major rheumatology societies endorse an SU T2T strategy with dose escalation and monitoring, alternative symptom-driven approaches (treat-to-avoid-symptoms; T2S) have been proposed, and recent appraisals highlight that the comparative evidence for patient-centered outcomes (e.g. flare frequency, pain, function, and quality of life) remains limited, underscoring the need for pragmatic head-to-head strategy trials. 
+ 51 
+  In parallel, a potential paradigm shift has emerged around carefully selected “treatment holidays” (ULT discontinuation) in patients with sustained remission and low/absent urate burden. Ongoing randomized trials (e.g. GO TEST Finale and STING) are evaluating continuation (T2T) versus discontinuation strategies, including structured criteria for restarting ULT and, in some designs, ultrasound monitoring to minimize recurrence risk. 
+ 52 
+  Until these data mature, routine ULT discontinuation cannot be recommended, and any consideration of a drug-free period should be individualized using shared decision-making and close follow-up.
+Allopurinol, the most widely used ULT agent, reduces UA production by inhibiting xanthine oxidase (XO). 
+ 53 
+  However, its use is associated with hypersensitivity reactions, including rare but severe Stevens–Johnson syndrome. 
+ 54 
+  Additionally, therapeutic efficacy varies among individuals, with some patients experiencing “allopurinol failure,” defined as failure to achieve target SU levels (<0.36 mmol/L) despite adequate dosing. 
+ 55 
+  Thus, individualized dose titration is critical for optimizing efficacy and safety.
+Febuxostat, an alternative XO inhibitor, demonstrates efficacy in patients with renal impairment. Unlike allopurinol, febuxostat is primarily metabolized in the liver, offering a therapeutic advantage in renal disease. Studies involving fixed dosing suggest that febuxostat may achieve target SU levels more frequently than standard-dose allopurinol. 56 – 58  However, in a large-scale, randomized, double-blind, T2T noninferiority trial with dose titration of both agents (STOP Gout), allopurinol was noninferior to febuxostat for flare control, and both therapies achieved SU goals, even among participants with stage 3 CKD. 58 , 59  Nonetheless, its safety profile has been scrutinized. The CARES trial initially suggested an increased risk of cardiovascular mortality with febuxostat compared with allopurinol, leading to warnings from regulatory agencies. 
+ 60 
+  In contrast, the subsequent, larger FAST trial found no such increased cardiovascular risk in a predominantly European population. This discrepancy highlights the importance of individualized risk–benefit assessment and shared decision-making when selecting a ULT, particularly in patients with significant cardiovascular comorbidities. Overall, the certainty of evidence regarding comparative cardiovascular safety of febuxostat versus allopurinol is limited by inconsistency across major trials (evidence certainty: low to moderate). Therefore, any preferential use of febuxostat in patients with high cardiovascular risk should be approached as a conditional recommendation, prioritizing shared decision-making and careful follow-up (recommendation strength: conditional).
+Uricosuric agents, such as URAT1 (urate transporter 1) inhibitors, lower SU levels by enhancing renal excretion. Benzbromarone, a URAT1 inhibitor, reduces UA reabsorption in renal tubules, increasing urinary excretion. Its efficacy is closely linked to renal function and is recommended for patients with preserved kidney function. Adverse effects include hepatotoxicity and gastrointestinal disturbances. Contraindications include a history of kidney stones due to the risk of UA crystallization. Patients on benzbromarone should maintain a high fluid intake (>2000 mL/day) for facilitating UA clearance.
+Emerging selective urate reabsorption inhibitors, such as lesinurad, verinurad, and dotinurad, demonstrate promising urate-lowering effects, particularly in patients with renal impairment. 
+ 60 
+  These agents inhibit URAT1 activity, preventing urate reabsorption and accumulation. Drug selection should prioritize patient comorbidities, adverse effect profiles, and tolerability to formulate personalized treatment regimens. The key characteristics of the ULT and XO agents discussed above, including their global and domestic launch timelines, indications, and primary safety risks, are summarized in  Table 2  to aid in comprehensive evaluation and individualized selection for clinical practice.
+
+Comparison of international guidelines and practical reconciliation in clinical practice:
+International recommendations are broadly aligned on the core concept that gout is a curable crystal deposition disease when monosodium urate (MSU) burden is sufficiently reduced and maintained below the saturation threshold. However, important areas of divergence remain across major guidelines, most notably between the 2016 EULAR recommendations and the 2020 ACR guideline as well as between Western guidance and Asia-Pacific perspectives such as the Japanese Society of Gout and Uric & Nucleic Acids guideline (3rd edition; English version published 2020). These differences reflect not only variation in the underlying evidence base (randomized trials vs. observational data) but also differences in drug availability, baseline comorbidity patterns, and health-system implementation priorities (Supplementary Table 1).
+Regarding areas of consensus, both EULAR and ACR strongly endorse a T2T approach for ULT, using serial SU measurements to guide dose titration. The ACR guideline explicitly recommends ULT dose titration guided by serial SU measurements to achieve a target SU <6 mg/dL, rather than fixed-dose ULT strategies. 
+ 61 
+  EULAR similarly recommends maintaining SU <6 mg/dL (360 µmol/L) and lowering further in severe disease. 
+ 62 
+  With respect to acute flares, the ACR guideline places colchicine, NSAIDs, and glucocorticoids as appropriate first-line options. Notably, the Japanese guideline also describes NSAIDs, glucocorticoids, and colchicine as equally recommended for acute gout attacks, reinforcing international convergence on flare pharmacotherapy. 
+ 63
+The key divergences and their evidence basis are as follows.
+ When to start ULT (early vs. selective initiation) . EULAR recommends that ULT “should be considered from the first presentation of the disease,” reflecting a strong disease-modifying philosophy that early crystal-burden reduction may prevent progression. 
+ 64 
+  In contrast, the ACR guideline is more selective for early disease in routine practice, with recommendations that weigh expected benefit against treatment burden and feasibility; it provides explicit guidance on clinical scenarios, and it also notes that ULT initiation can be considered even during a flare (conditional recommendation) to reduce missed opportunities for long-term management. Clinically, these approaches can be reconciled by individualizing early ULT discussion at the first presentation while prioritizing firm initiation in patients with recurrent flares, tophi, radiographic damage, very high SU, or significant comorbidity risk—where the likelihood of net benefit is the highest. Target SU thresholds (<6 mg/dL vs. lower targets in severe gout) . EULAR explicitly recommends <6 mg/dL for all and <5 mg/dL in those with “severe gout,” supporting rapid MSU dissolution and tophus resolution. The ACR guideline strongly recommends SU <6 mg/dL but explicitly states that it does not define additional lower thresholds for more intensive ULT due to insufficient supporting evidence for extra cutoff points beyond <6 mg/dL. The Japanese guideline highlights that overseas guidance often recommends <5 mg/dL for tophaceous gout; however, in Japan, the guideline focuses on a ≤6.0 mg/dL target, noting uncertainty and balancing feasibility, safety, and practicality. A pragmatic synthesis is to adopt <6 mg/dL universally and consider a lower threshold (e.g. <5 mg/dL), primarily in patients with substantial tophus burden or refractory disease, while explicitly monitoring tolerability and polypharmacy risks. Flare prophylaxis duration during ULT initiation . Both EULAR and ACR emphasize prophylaxis but differ in framing. ACR strongly recommends concomitant anti-inflammatory prophylaxis (e.g. colchicine/NSAIDs/prednisone) and continuing prophylaxis for 3–6 months (rather than <3 months), with ongoing evaluation and extension if flares persist. EULAR-linked patient guidance commonly suggests 6 months of prophylaxis during ULT initiation (typically colchicine 0.5–1 mg/day or NSAIDs) to reduce early mobilization flares. 
+ 64 
+  The Japanese guideline similarly supports longer colchicine “cover” rather than short-term prophylaxis after starting urate-lowering agents. In practice, prophylaxis duration should be individualized based on flare frequency, baseline MSU burden (tophi/imaging), renal function, drug interactions, and patient preference—while avoiding premature discontinuation that may trigger rebound flares. ULT choice and special populations (e.g. CKD) . The ACR guideline strongly recommends allopurinol as the preferred first-line ULT for all patients, including those with moderate-to-severe CKD (stage ≥3), emphasizing low initial doses and careful titration. EULAR also recommends allopurinol as first-line ULT with dosing adjustments according to renal function and suggests escalation/alternatives if treatment targets are not achieved. Japanese guidelines explicitly incorporated considerations of medical economics and local prescribing realities and highlighted that differences exist between Japanese and Western guidelines regarding targets and broader hyperuricemia management. This provides practical guidance for clinicians navigating differences between guidelines. Given that the strongest common ground across guidelines is the T2T principle and the primacy of sustained urate control, we recommend a simple reconciliation framework: (a) establish a shared decision-making conversation early and revisit ULT at every flare-related contact; (b) use a universal target of SU <6 mg/dL for all patients receiving ULT while considering more intensive targets in selected severe/refractory phenotypes; (c) start ULT at low doses and titrate over weeks-to-months, with appropriate prophylaxis and comorbidity-driven drug selection; and (d) integrate region-specific practice patterns (e.g. Japanese guidance on hyperuricemia and implementation feasibility) when caring for diverse populations or within different formularies and healthcare systems.
+
+Lifestyle intervention measures:
+Lifestyle interventions are a critical component of long-term gout management. Studies demonstrate that healthy dietary habits, moderate physical activity, and weight management positively influence UA control. 65 , 66  High-purine foods (e.g. red meat and seafood) elevate serum UA levels; thus, patients with gout should restrict their intake. Research indicates that adherence to a low-purine diet significantly reduces serum UA levels and decreases the frequency of gout flares. 
+ 67 
+  Patients are advised to avoid high-purine foods (e.g. red meat, seafood, and sugar-sweetened beverages) while increasing consumption of low-fat dairy products and vegetables. Additionally, alcohol consumption should be limited, as it exacerbates hyperuricemia. 
+ 68 
+  Increased water intake facilitates UA excretion, and patients are encouraged to maintain adequate daily hydration. 
+ 69
+Regarding physical activity, regular aerobic exercise not only aids in weight reduction but also improves overall health and lowers the risk of gout flares. 
+ 70 
+  Weight management is particularly vital for patients with gout. Evidence highlights that overweight status and obesity are significant risk factors for gout, and weight control effectively reduces UA levels and flare incidence. 
+ 71 
+  Patients should achieve weight management through balanced nutrition and consistent exercise. Clinicians should therefore emphasize the development of personalized dietary and exercise plans to support sustained health outcomes.
+
+Importance of regular monitoring and follow-up:
+Regular monitoring and follow-up are essential for the long-term management of gout. Periodic assessment of SU levels enables clinicians to evaluate treatment efficacy and adjust therapeutic regimens promptly to ensure target urate control (typically <6.0 mg/dL). In addition, imaging modalities—particularly musculoskeletal ultrasonography and dual-energy computed tomography (DECT)—can be used as adjunctive tools for assessing MSU crystal burden and documenting crystal dissolution and tophus regression over time during ULT. 72 , 73  Such imaging-informed follow-up is supported by recent recommendations on imaging in crystal-induced arthropathies and may be especially helpful in selected patients (e.g. tophaceous gout, discordant symptoms vs. SU response, or uncertain adherence). Additionally, follow-up visits aid in identifying potential complications, such as renal impairment or cardiovascular risk, particularly in patients with comorbid chronic conditions. Establishing structured follow-up protocols and patient education systems is critical to enhance gout management outcomes, ensuring that patients understand their disease status, treatment goals, and self-management strategies.
+
+Emerging anti-inflammatory and repurposed therapies:
+Biologic agents hold significant promise in the treatment of gout, primarily targeting inflammatory suppression and urate reduction. This therapeutic rationale is supported by accumulating evidence that, beyond the pivotal role of IL-1β in MSU crystal–induced inflammation, other interleukin (IL)-1 family members may also contribute to the inflammatory milieu and comorbidity profile of hyperuricemia and gout, thereby reinforcing IL-1–pathway blockade as a mechanistically grounded strategy. 
+ 74 
+  Current biologics under investigation include anti-IL-1β agents (e.g. canakinumab and anakinra) and anti-IL-6 receptor antibodies (e.g. tocilizumab) (Supplementary Table 2).
+
+NLRP3 inflammasome inhibitors:
+Direct NLRP3 inhibition is attractive because it intervenes upstream of IL-1β release and could provide an oral, short-course alternative to injectable cytokine inhibitors. Dapansutrile (OLT1177), an orally active selective NLRP3 inhibitor, has progressed furthest in clinical development for acute gout flares. In a proof-of-concept, open-label, dose-adaptive phase 2a study in patients with a monoarticular gout flare, dapansutrile produced marked reductions in target-joint pain and improvements in joint tenderness and swelling over 3 days, alongside reductions in systemic inflammatory markers, with an acceptable short-term safety profile and no signal for serious toxicity in this small study. 
+ 20 
+  Importantly, these findings provide biological plausibility that inhibiting NLRP3 can dampen the flare-associated inflammatory cascade without requiring parenteral administration.
+From an implementation standpoint, if ongoing phase 2/3 trials confirm clinically meaningful pain relief with a reassuring safety profile, NLRP3 inhibitors could become a pragmatic option for (a) patients with contraindications to NSAIDs/colchicine; (b) patients who cannot access or tolerate biologic IL-1 blockade; and (c) settings in which an oral, time-limited anti-inflammatory course is preferred. Realistically, however, widespread clinical availability will depend on completion of pivotal trials, regulatory review, and post-marketing safety surveillance—suggesting a mid-term timeline rather than imminent adoption in routine guidelines.
+
+IL-1 pathway blockade (IL-1β antagonists and IL-1 traps):
+Biologic inhibition of IL-1 signaling has demonstrated the most mature clinical evidence among emerging anti-inflammatory strategies. Canakinumab is a fully human monoclonal antibody targeting IL-1β. Randomized studies have shown that canakinumab can reduce pain and inflammation during acute gouty arthritis and may reduce the risk of recurrent flares compared with active comparators (e.g. triamcinolone acetonide) in difficult-to-treat populations. 
+ 75 
+  Importantly for real-world positioning, the European Medicines Agency (EMA) documentation for canakinumab (Ilaris) includes an on-demand single-dose regimen for gouty arthritis attacks, reflecting regulatory acceptance of this mechanism for selected patients in Europe. In contrast, regulatory approvals and reimbursement for gout indications vary widely across regions, and access is often constrained by high cost and parenteral administration requirements. Safety considerations for IL-1β blockade include increased susceptibility to infections (particularly respiratory infections), the need for careful patient selection (e.g. immunocompromised hosts), and vigilance for rare serious infectious complications.
+Anakinra is a recombinant IL-1 receptor (IL-1R) antagonist (IL-1Ra) with a short half-life, typically administered as daily subcutaneous injections. Although not universally licensed for gout, anakinra has been widely used off-label for acute flares—particularly in patients with multiple contraindications to NSAIDs and colchicine, advanced kidney disease, or complex comorbidity. Evidence includes randomized active-comparator studies suggesting clinical efficacy for pain reduction and inflammation control in crystal-proven gout flares, and observational data supporting feasibility in difficult-to-treat settings such as advanced CKD or renal transplantation. 
+ 76 
+  As with other biologic anti-cytokine strategies, the principal safety concern is the risk of infection; however, the short half-life of anakinra may be advantageous when brief therapy is intended or when rapid discontinuation is needed (e.g. evolving infection or peri-operative scenarios). Overall, IL-1 blockade is best positioned as a second-line or rescue strategy for severe acute flares (including polyarticular disease), for patients with contraindications or intolerance to NSAIDs/colchicine/corticosteroids or for patients with frequent, disabling flares despite optimized ULT.
+Rilonacept is an IL-1 “trap” that binds IL-1α and IL-1β. In a randomized phase III trial, rilonacept reduced gout flares during initiation of ULT, supporting the concept that targeted cytokine blockade can be used as flare prophylaxis during urate lowering in high-risk patients. Despite this strong biologic rationale and trial evidence, practical barriers—including cost, injectable administration, and long-term safety and availability considerations—have limited routine use in contemporary gout algorithms, where conventional prophylaxis (low-dose colchicine, NSAIDs, or low-dose glucocorticoids) remains the standard of care.
+
+SGLT2 inhibitors as a repurposed, comorbidity-aligned option:
+SGLT2 inhibitors have transformed care for type 2 diabetes, heart failure, and CKD—conditions that frequently co-occur in gout. A growing literature suggests that SGLT2 inhibitors modestly lower SU levels by increasing urinary urate excretion (uricosuria), likely related to proximal tubular transport mechanisms and altered urate handling. 
+ 77 
+  Beyond biochemical effects, observational and meta-analytic evidence has associated SGLT2 inhibitor therapy with fewer “hyperuricemic events,” including gout flares or initiation of ULT, although heterogeneity in outcome definitions and confounding by indication remain important limitations. 
+ 78 
+  Recent high-level reviews specifically focusing on gout have emphasized that SGLT2 inhibitors may offer a dual advantage in appropriate patients: a modest urate-lowering effect and substantial cardio-renal protection, potentially improving overall risk profiles in gout populations with diabetes, CKD, or heart failure. 
+ 19 
+  From a treatment-algorithm perspective, SGLT2 inhibitors should not be framed as primary gout therapies, rather, they are best viewed as adjunctive, comorbidity-driven treatments that may incidentally reduce urate burden and gout events while delivering proven cardiovascular and renal benefits in appropriately selected patients. Safety remains consistent with established class effects (e.g. genital mycotic infections, volume depletion, and rare diabetic ketoacidosis), requiring structured patient education and monitoring, particularly in older adults with multimorbidity. The most realistic near-term implementation is therefore opportunistic: when an SGLT2 inhibitor is clinically indicated for diabetes/heart failure/CKD in a patient with gout, its potential gout-relevant benefits can be considered a favorable ancillary effect. Definitive positioning within gout-specific guidelines will likely require pragmatic randomized trials using gout-centric endpoints (flare frequency, function, and quality of life) rather than solely SU.
+
+Practical summary and timelines:
+Collectively, these agents illustrate a credible “next wave” beyond conventional anti-inflammatories and ULDs. IL-1 pathway inhibitors represent the most immediately actionable option in selected patients, with regional regulatory pathways already recognizing a role for canakinumab in gouty arthritis attacks in Europe, albeit limited by cost and infection risk. SGLT2 inhibitors are already widely available for cardio-renal-metabolic indications and can be implemented immediately in eligible patients, although their incorporation into gout-specific algorithms should be cautious until dedicated gout outcome trials are completed. 
+ 78
+
+Potential of gene therapy:
+Gene therapy is increasingly recognized as a promising approach for gout treatment, driven by advancements in gene-editing technologies that aim to correct genetic defects contributing to hyperuricemia. The genetic underpinnings of gout are complex, involving polymorphisms across multiple genes. For example, variants in  ABCG2  are strongly associated with urate excretion capacity, and individuals carrying specific mutations exhibit a higher predisposition to hyperuricemia and gout. 
+ 79 
+  Additionally, genes such as  SLC2A9  and  SLC22A12 , which regulate urate transport and metabolism, may influence an individual’s ability to process UA, thereby modulating gout risk. 
+ 80 
+  Genome-wide association studies (GWAS) have identified numerous single nucleotide polymorphisms (SNPs) linked to SU levels and gout susceptibility, providing critical mechanistic insights into potential therapeutic targets. 
+ 81
+In the field of gene therapy for gout, researchers are exploring several strategies. One approach focuses on editing urate metabolism-related genes, such as  SLC2A9 , to enhance renal urate excretion and reduce SU levels, thereby mitigating flare frequency and severity. 
+ 82 
+  Another direction involves modulating immune-related genes, particularly those associated with the NLRP3 inflammasome, to attenuate inflammatory responses in gouty arthritis. 
+ 83 
+  Furthermore, gene therapy targeting the gut microbiome to improve metabolic dysregulation in patients with gout represents an innovative avenue. 
+ 84 
+  Emerging techniques, such as lipid nanoparticle–mediated delivery of urate oxidase (Uox) mRNA to the liver, demonstrate potential in efficient degradation of UA. 
+ 85 
+  Finally, integrating gene therapy with conventional pharmacological treatments may offer personalized, synergistic therapeutic benefits for long-term gout management. 
+ 86
+
+Emerging drug development trends:
+The development of gout therapeutics is increasingly shifting toward precision-oriented, personalized approaches in both domestic and international markets. Although allopurinol and febuxostat remain therapeutic mainstays, novel agents such as urate excretion enhancers and targeted anti-inflammatory therapies are under accelerated investigation. These include inhibitors of urate production and promoters of urate excretion/degradation, targeting pathways such as purine nucleoside phosphorylase (PNP), XO, urate transporter 1 (URAT1), NLRP3 inflammasome, and uricase. Given the central role of URAT1 in renal urate excretion, this target remains a hotspot for drug discovery. In addition to biologics, orally bioavailable small-molecule NLRP3 inflammasome inhibitors have garnered significant attention for their ability to directly target the core inflammatory axis of gout.
+Among PNP inhibitors, which are therapeutic targets for leukemia, gout, and autoimmune diseases, 
+ 87 
+  only ulodesine (BCX4208) is currently being tested in phase II clinical trials for hyperuricemia and gout management. 
+ 88 
+  A double-blind study evaluating ulodesine’s urate-lowering efficacy (n = 60) demonstrated that approximately one-third of participants achieved the SU target of <6 mg/dL within 3 weeks. 
+ 89 
+  However, despite its potent urate-lowering effects, safety concerns persist due to the risk of immunodeficiency and autoimmune disorders associated with PNP deficiency.
+Allopurinol and febuxostat, as XO inhibitors, remain first-line agents in clinical gout management. In recent years, novel XO inhibitors have entered clinical trials, demonstrating favorable efficacy and safety profiles. Topiroxostat, a highly selective XO inhibitor, is primarily metabolized and inactivated in the liver and excreted via urine and feces. Unlike allopurinol, topiroxostat and its metabolites are minimally affected by renal function, making it a preferred option for patients with CKD, with additional benefits in reducing proteinuria in this population. 
+ 90 
+  Studies indicate that 120 mg/day of topiroxostat can achieve comparable urate-lowering effects to 200 mg allopurinol. 
+ 91
+Tigulixostat, another novel XO inhibitor, is under investigation for patients with gout who have contraindications or intolerance to allopurinol and febuxostat. In a clinical trial, 158 participants were randomized to three tigulixostat dose groups (50 mg, 100 mg, and 200 mg) or placebo. At 12 weeks, the proportions of patients achieving SU <5 mg/dL in the tigulixostat groups (47.1%, 44.7%, and 62.2%, respectively) significantly exceeded that in the placebo group (2.9%). 
+ 92 
+  A 12-month phase III trial is currently comparing tigulixostat and allopurinol for long-term efficacy and safety. 
+ 93
+Classic URAT1 inhibitors such as benzbromarone and lesinurad were withdrawn from the market due to severe adverse effects. However, as 90% of hyperuricemia cases result from impaired renal urate excretion, URAT1 inhibitors (uricosuric agents) remain a clinically viable strategy. 
+ 94 
+  Dotinurad, a novel URAT1 inhibitor approved in Japan and China, selectively inhibits URAT1-mediated urate reabsorption in the kidneys, effectively lowering SU levels. 
+ 51 
+  As a selective URAT1 inhibitor, dotinurad specifically targets URAT1 in renal proximal tubules without interfering with other urate transporters such as ABCG2 and OAT1/3. This selective mechanism enhances its urate-lowering efficiency compared with nonselective URAT1 inhibitors. 
+ 95
+The pathogenesis of gout involves the phagocytosis of MSU crystals by macrophages, triggering NLRP3 inflammasome assembly and subsequent caspase-1 activation. This cascade leads to the release of proinflammatory cytokines, particularly IL-1β and IL-18. IL-1 binding to endothelial IL-1Rs initiates signal transduction cascades, inflammatory mediator release, and neutrophil recruitment, driving symptomatic manifestations and disease progression in gout. 
+ 96 
+  Consequently, pharmacological inhibition of NLRP3 inflammasome activation offers a safe therapeutic avenue for patients with gout.
+Dapansutrile, a novel β-sulfonyl nitrile compound, is an orally active small-molecule inhibitor of the NLRP3 inflammasome. In a phase 2a study, oral dapansutrile demonstrated significant reductions in target joint pain across all dose groups. 
+ 20 
+  Canakinumab, a fully human anti-IL-1β monoclonal antibody, was evaluated in an 8-week single-blind, double-dummy, dose-ranging trial. Compared with triamcinolone, 150 mg canakinumab provided rapid and sustained pain relief in patients with acute gouty arthritis and significantly lowered the risk of recurrent flares. 
+ 97 
+  Rilonacept, an IL-1R–Fc fusion protein, blocks IL-1α and IL-1β signaling, thereby suppressing inflammation. In a phase III randomized, double-blind, placebo-controlled trial, rilonacept markedly reduced gout flares associated with ULT initiation. 
+ 98
+Uox (uricase) rapidly oxidizes UA to allantoin, which is no longer reabsorbed by renal tubules and is excreted, offering therapeutic benefits for gout. However, limitations such as parenteral administration and storage requirements hinder its clinical utility. 
+ 99 
+  Currently approved uricases include rasburicase and pegloticase, which induce rapid and potent urate-lowering effects, directly dissolving UA deposits (e.g. tophi). Despite their efficacy, approximately 50% of patients experience transient gout flares during treatment, relegating these agents to third-line therapy. 100 , 101  In 2023, the MIRROR trial demonstrated that combining rasburicase with methotrexate (15 mg/week) reduced anti-drug antibody formation, significantly improving 12-month response rates (60.0% vs. 30.8%; P < 0.003). The methotrexate combination group also exhibited lower infusion reaction rates (4.2% vs. 30.6%), with all reactions occurring within the first 6 months of treatment. 
+ 102 
+  For pegloticase, the novel therapy SEL-212—a combination of ImmTOR (immune tolerance platform) and pegadricase—is administered via monthly infusions (every 28 days). In clinical studies, SEL-212 at 0.15 mg/kg reduced mean SU levels by 69% compared with placebo. 
+ 103
+Emerging drug development also focuses on optimizing delivery systems (e.g. transdermal or localized administration) to enhance bioavailability and patient adherence. Collectively, these advancements substantially expand the therapeutic possibilities for gout management, with ongoing research poised to translate novel agents into clinical practice.
+
+Implementation science and real-world barriers to optimal gout outcomes:
+Despite the availability of effective pharmacological therapies, gout remains a high-burden disease in routine care because the main determinants of outcomes are often implementation-related rather than efficacy-related. Common real-world gaps include poor persistence and adherence to ULT, limited T2T-based monitoring and dose escalation, therapeutic inertia among prescribers, and delayed escalation for treatment-refractory disease. These barriers are further compounded by multimorbidity (CKD, cardiovascular disease, and diabetes), polypharmacy, fragmented care pathways, and structural inequities in medication access and follow-up. The following implementation-focused strategies aim to complement the pharmacologic evidence summarized above and provide pragmatic solutions for clinical practice and health systems.
+
+Medication adherence and persistence: the core modifiable barrier:
+ULT is a long-term, disease-modifying therapy; however, the relevant real-world persistence is frequently poor. Reports indicate that ULT adherence and persistence in the first year may fall below 50%, with progressive decline over time, highlighting a major implementation gap between guideline intent and real-world use. 
+ 104 
+  This gap is clinically meaningful because sustained subsaturating SU is required for MSU crystal dissolution and prevention of recurrent flares. Accordingly, adherence interventions should be considered “high-yield” components of gout care, rather than optional add-ons.
+Practical, evidence-informed strategies include the following:
+ Structured patient education and expectation management . Patients commonly misinterpret gout as an episodic condition rather than a chronic crystal deposition disease. Education should explicitly link SU targets to crystal dissolution and clarify that flares may transiently increase after ULT initiation. Shared decision-making (SDM) and goal setting . SDM can address illness perceptions, improve willingness to initiate and titrate ULT, and align treatment with patient priorities. SDM tools (including gout-specific decision aids developed for ULT initiation/restart) can help standardize these conversations and reduce decisional conflict. 
+ 105 
+ Simplifying regimens and minimizing treatment burden . Once-daily dosing where possible, synchronization with existing chronic disease medications, and clear written “flare plans” can reduce the cognitive burden for patients. Proactive follow-up and feedback loops . Regular SU feedback (e.g. “reporting back” the latest SU value and trend) can function as a behavioral reinforcement mechanism, analogous to glycated hemoglobin (HbA1c) in diabetes care.
+Implementation trials support the effectiveness of structured care models. In a large community-based randomized trial, nurse-led care that combined individualized education, patient engagement/SDM, and T2T-guided titration achieved markedly higher SU target attainment than usual care (and was cost-effective), illustrating how reorganizing care delivery can translate pharmacological efficacy into real-world outcomes at scale. 
+ 106 
+  Pharmacist-led interventions, including automated telephone follow-up and protocolized titration support, have also improved adherence-related outcomes and SU control in pragmatic settings. 
+ 107
+
+Therapeutic inertia among prescribers and suboptimal T2T execution:
+Therapeutic inertia—failure to initiate ULT when indicated, failure to titrate to target, and inconsistent SU monitoring—is a recurring theme in real-world gout care. A nurse-led RCT noted that usual care was often characterized by low ULT uptake and limited titration to a target SU, reflecting a system-level rather than purely pharmacologic deficit. Global analyses similarly suggest that T2T care (SU monitoring and dose escalation to target) is inconsistently implemented across regions and settings. 
+ 108 
+  Qualitative studies also describe persistent misconceptions (e.g. “allopurinol should only be used at low fixed doses” or “ULT is only for severe disease”), competing visit priorities, and uncertainty about monitoring/titration protocols as contributors to inertia. 
+ 109
+Pragmatic solutions include the following:
+ Protocolized titration pathways embedded into routine workflows (e.g. standardized titration schedules, SU check intervals, and dose-escalation triggers). Electronic health record (EHR) tools such as order sets, SU target reminders, “dose not at target” alerts, and registries that flag patients not achieving therapeutic goals. Task-sharing models (nurse- or pharmacist-supported titration clinics) that offload frequent monitoring and follow-up from physicians while maintaining clinician oversight. Quality indicators and audit-and-feedback . Monitoring SU testing rates, target attainment, and ULT persistence as quality metrics can drive improvement programs. 
+ 110
+
+Cost-effectiveness and resource-limited settings:
+From a health-system perspective, gout is a condition where inexpensive, generic therapies can be highly cost-effective when implemented correctly. Economic models suggest that allopurinol-based strategies are generally cost-effective compared with no ULT and that sequencing and pricing assumptions strongly influence the cost-effectiveness of febuxostat and newer agents. 
+ 111 
+  Importantly, the nurse-led T2T approach has been shown to be cost-effective in a community setting, reinforcing the fact that delivery models that improve adherence and titration can generate value beyond the drug acquisition cost alone.
+In resource-limited settings, practical priorities include (a) preferential use of low-cost XO inhibition with structured titration; (b) targeted prophylaxis during ULT initiation using affordable options; and (c) careful selection of higher-cost biologics/uricase therapies for narrowly defined refractory populations.
+
+Management of treatment-refractory gout: escalation with an implementation lens:
+“Refractory” gout in routine practice is frequently multifactorial. Before labeling pharmacologic failure, clinicians should reassess the following: (a) adherence and persistence; (b) whether the ULT dose has been adequately titrated to target; and (c) ongoing drivers of hyperuricemia (diuretics, alcohol, diet, and CKD progression). If SU levels remain above target despite maximized tolerated XO inhibitor therapy, algorithmic escalation (switching XO inhibitor, adding a uricosuric when feasible, or referral for advanced therapies) should follow a structured pathway rather than  ad hoc  decision-making. In severe tophaceous disease, uricase therapy (e.g. pegloticase) may be appropriate in specialist settings with clear monitoring and stopping rules due to immunogenicity and infusion reaction risk.
+Implementation tools can reduce delays in escalation: referral triggers embedded in EHRs, standardized “refractory gout checklists,” and imaging-informed follow-up in selected cases to align biochemical and crystal-burden responses (e.g. ultrasound/DECT to document MSU depletion). 
+ 112
+
+Digital health, telemedicine, and scalable self-management support:
+Telemedicine and digital support can address key barriers—limited follow-up capacity, travel constraints, and inconsistent monitoring—particularly for patients with multimorbidity. Feasibility studies of digital T2T approaches and supported self-management apps suggest that technology-enabled follow-up may support adherence behaviors and SU control; however, larger pragmatic trials using patient-centered gout endpoints are still needed. 
+ 113 
+  In parallel, trials evaluating nurse-led telehealth support for gout self-management are underway, reflecting growing interest in scalable, health-literacy–informed models. 
+ 114 
+  A practical near-term approach is hybrid care: in-person initiation and education followed by remote SU monitoring reminders, symptom tracking, and protocolized titration check-ins.
+In summary, the most impactful “emerging” advances in gout care may be implementation-facing: (a) structured education; (b) SDM-enabled initiation; (c) protocolized T2T titration; and (d) team-based or technology-supported follow-up. These approaches directly target the dominant failure points—persistence, monitoring, and therapeutic inertia—and can convert established pharmacologic efficacy into real-world remission and improved quality of life.
+
+Importance of regular SU monitoring:
+Regular monitoring of SU levels is critical in the management of gout. The primary pathological mechanism of gout involves elevated SU levels, leading to the deposition of urate crystals in joints and soft tissues, which triggers inflammatory responses and pain. By tracking SU levels, clinicians can evaluate treatment efficacy and adjust therapeutic regimens accordingly. Studies demonstrate that maintaining SU within the target range (typically <6 mg/dL) significantly reduces the frequency and severity of gout flares. 
+ 115 
+  Furthermore, SU monitoring aids in identifying potential comorbidities, such as renal impairment and cardiovascular diseases, which are common complications in patients with gout. 
+ 116 
+  Thus, implementing regular urate level assessments not only facilitates personalized treatment but also enhances patients’ quality of life by mitigating the impact of gout on daily activities.
+
+Importance of multidisciplinary collaboration:
+The management of gout warrants multidisciplinary collaboration to ensure comprehensive care. This approach aligns with the EULAR guidelines, which strongly recommend educating patients about lifestyle measures and the principles of ULT to improve adherence and outcomes (EULAR 2025). Gout often coexists with chronic comorbidities such as cardiovascular diseases and CKD, thereby complicating therapeutic approaches. A multidisciplinary team typically comprises rheumatologists, internists, dietitians, and pharmacists, who collectively provide tailored interventions from diverse clinical perspectives. Such collaboration not only improves gout-specific outcomes but also optimizes the management of comorbidities, thereby reducing the risk of cardiovascular events. Rheumatologists may design personalized ULT regimens, while dietitians offer nutritional guidance to support weight control and SU reduction. 
+ 117 
+  Through coordinated efforts, patients achieve holistic health management, ultimately enhancing their quality of life.
+
+Development of individualized treatment plans:
+Individualized treatment plans are pivotal in gout management due to the heterogeneity of patients’ clinical profiles, lifestyles, and comorbidities. Studies reveal that patients with gout frequently experience severe joint pain, swelling, and functional limitations during acute flares, which profoundly impair daily activities, work productivity, and psychological well-being. 
+ 118 
+  Patient-reported outcomes are increasingly recognized as critical components of therapeutic evaluation, offering insights into their lived experiences and unmet needs during treatment. 
+ 119 
+  Regular assessment of clinical symptoms and quality of life not only guides therapeutic adjustments but also enhances patient engagement and adherence, thereby improving overall health outcomes.
+Key determinants of individualized therapy include age, sex, body weight, lifestyle, and comorbid conditions, all of which influence gout pathogenesis and progression. For instance, a high body mass index is strongly associated with gout incidence, necessitating weight-loss strategies and lifestyle modifications for obese patients. 
+ 120 
+  Given the high burden of cardiovascular disease and CKD among patients with gout, comorbidity assessment should directly inform therapeutic selection and monitoring. In patients with established cardiovascular comorbidities, selecting urate-lowering strategies with an appropriate cardiovascular safety profile (e.g. allopurinol) and using shared decision-making when choosing alternatives is essential. 
+ 121 
+  Likewise, renal involvement is common in gout and may warrant dose titration and/or avoidance of therapies that are limited by reduced kidney function (e.g. many uricosurics), underscoring the need for individualized regimens and close follow-up. 
+ 122
+
+Future research directions and challenges:
+Future research in gout management should prioritize the development of novel therapies and the optimization of existing treatment regimens. Recent advances have introduced emerging agents such as URAT1 inhibitors and next-generation XO inhibitors, which may offer new therapeutic options for refractory gout, particularly in patients with comorbid chronic conditions. However, significant challenges persist, including the need to evaluate the safety and efficacy of these therapies in populations with multiple comorbidities, address barriers to patient adherence, and refine strategies for long-term urate control. Additionally, robust long-term follow-up studies are warranted to assess the sustained outcomes and potential adverse effects of diverse therapeutic approaches. Addressing these challenges will advance the optimization of gout management strategies and enhance patient quality of life (Supplementary Figure 2).
+
+[SECTION: CONCLUSIONS]
+Gout, as a prevalent metabolic disorder, requires integrated therapeutic strategies for effective management. Analysis of current evidence underscores that combining short- and long-term treatment regimens is pivotal for achieving urate control and symptom resolution. Pharmacotherapy and lifestyle modifications are complementary, addressing patient needs across disease stages. Although existing studies offer diverse perspectives on gout management, a balanced evaluation of their applicability and limitations is essential for formulating comprehensive treatment protocols.
+Advancements in medical science are poised to expand therapeutic options for gout through innovations such as novel pharmacological agents and gene therapy. These emerging approaches will broaden treatment accessibility and contribute to a reevaluation of conventional management paradigms. Multidisciplinary collaboration is critical for advancing scientifically grounded and individualized care, extending beyond pharmacological optimization to incorporate dietary, exercise, and behavioral interventions.
+Furthermore, establishing systematic management frameworks and strengthening patient education are vital for improving clinical outcomes and quality of life. Patients’ understanding of their condition and adherence to treatment plans directly influence therapeutic success. Healthcare providers must prioritize patient empowerment through education, fostering self-management skills for daily disease control (Supplementary Figure 3).
+In summary, effective gout management demands evidence-based integration of current knowledge and anticipation of future medical innovations. Through diversified therapeutic strategies and systematic care, patients with gout can achieve substantial improvements in health and well-being.
+
+Consent for publication:
+All authors have read the manuscript and have agreed to its publication.
+
+Data availability statement:
+Not applicable.
+
+Declaration of conflicting interests:
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Supplemental material:
+Supplemental material for this article is available online.
